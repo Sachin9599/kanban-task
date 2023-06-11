@@ -1,0 +1,62 @@
+/* html {
+    overflow-y: hidden;
+  } */
+
+.icon i {
+  color: white;
+}
+#sidebar {
+  height: 128vh;
+}
+.heading{
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+.img {
+  width: 70px;
+  height: 40px;
+}
+.components {
+  padding: 15px;
+}
+.components a {
+  margin: 20px;
+  font-size: 14px;
+  text-decoration: none;
+}
+.components .white{
+    color: white;
+}
+.hr {
+  color: white;
+}
+.main {
+  margin-top: 9px;
+  margin-bottom: 0.5rem;
+  font-size: 40px;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+}
+.data {
+  margin-left: 30px;
+  margin-top: 23px;
+  padding-left: 3px;
+  /* background-color: black; */
+  color: white;
+}
+.new{
+    color:blue;
+}
+.card_main{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(55 16 16);
+    color: white;
+    font-size: 13px;
+    width: 28rem;
+    height: 5rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fourth{
+  height: 9rem;
+}
